@@ -83,6 +83,6 @@ Feel free to **file a new issue** with a respective title and description on the
 # :book: License
 
 Released in 2020.
-This project is under the [MIT license](https://github.com/tiago-web/Notes-keeper/master/LICENSE).
+This project is under the [MIT license](https://github.com/tiago-web/Notes-keeper/blob/master/LICENSE).
 
 Made with ❤️ by [Tiago Soriano](https://github.com/tiago-web) 🚀
